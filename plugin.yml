@@ -1,0 +1,6 @@
+name: SmoothTransfer
+main: SmoothTransfer\SmoothTransfer
+src-namespace-prefix: SmoothTransfer
+author: dohwi
+version: 1.0.0
+api: 5.0.0
