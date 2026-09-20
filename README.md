@@ -3,9 +3,9 @@
   <p>Minecraft: Bedrock Edition (PocketMine-MP) 서버 이동 및 로그인 페이드 트랜지션 플러그인</p>
 
   <p>
-    <a href="https://pmmp.io"><img src="https://img.shields.io/badge/PocketMine--MP-API%205.0.0-FF8C00?style=flat-square" /></a>
-    <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-8.1+-777BB4?style=flat-square&logo=php&logoColor=white" /></a>
-    <a href="https://www.minecraft.net"><img src="https://img.shields.io/badge/Minecraft-Bedrock-5C8A36?style=flat-square" /></a>
+    <a href="https://pmmp.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PocketMine--MP-API%205.0.0-FF8C00?style=flat-square" /></a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-8.1+-777BB4?style=flat-square&logo=php&logoColor=white" /></a>
+    <a href="https://www.minecraft.net" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Minecraft-Bedrock-5C8A36?style=flat-square" /></a>
   </p>
 </div>
 
